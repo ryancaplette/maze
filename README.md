@@ -3,9 +3,9 @@
 
 ## Description 
 
-A simple real time maze generator utilizing the depth first search (DFS) algorithm to generate the pathways. 
+A simple real time maze generator utilizing depth first search (DFS) algorithm to generate the pathways. 
 
-I decided to build this project to put the depth first algorithm to use in a practical sense, and I also designed the application to display the creation of the map in real time so that the depth first search algorithm (DFS) could be visualized step by step.
+I decided to build this project to put the depth first algorithm to use in a practical sense, and I also designed the application to display the creation of the map in real time so that the depth first traversal could be visualized step by step.
 
 ![An example of this application running](assets/images/maze.gif)
 
